@@ -2,19 +2,6 @@
 
 A comprehensive desktop application for managing gym operations, including member management, trainer management, attendance tracking, and payment processing.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Database Schema](#database-schema)
-- [Module Documentation](#module-documentation)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## ✨ Features
 
 ### Member Management
