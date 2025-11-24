@@ -5,9 +5,7 @@ A comprehensive desktop application for managing gym operations, including membe
 ## 📸 Screenshot
 
 ### Main Landing Page
-[Add your main application landing page screenshot here]
-
-![Main Screen](./screenshots/main-screen.png)
+![Main Screen](/ss.png)
 
 ## ✨ Features
 
