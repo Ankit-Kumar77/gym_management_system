@@ -125,8 +125,6 @@ The application provides a sidebar menu with the following options:
 ## 📸 Screenshots
 
 ### Main Landing Page
-[Add your main application landing page screenshot here]
-
 ![Main Screen](/ss.png)
 
 
